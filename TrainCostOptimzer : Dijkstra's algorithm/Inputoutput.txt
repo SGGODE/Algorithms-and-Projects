@@ -1,0 +1,20 @@
+Keep in Mind The Number in According to Ur Source And Destination City :
+Delhi 1
+Mumbai 2
+Pune 3
+Bangalore 4
+Hyderabad 5
+Kolkata 6
+Chennai 7
+Ahemdabad 8
+Enter Source City Number :
+1
+Enter Destination City Number :
+8
+Enter From Which Kind of Set U Want to Go :
+AC  - 1
+Sleeper  - 2
+General  - 3
+Enter Valid Set Type :
+1
+This Is The Possible Minimum Cost Required to Go Ahemdabad From Delhi in AC set : 3095
