@@ -9,16 +9,14 @@ To run this program, you need to have a C++ compiler installed on your system.
 ## Getting Started
 
 1. Clone the repository to your local machine or download the source code file.
- [git clone https://github.com/your-username/minimum-cost-travel.git]
 
 2. Navigate to the project directory.
- [cd minimum-cost-travel]
+ [cd TrainCostOptimzer : Dijkstra's algorithm]
 
 3. Compile the source code.
- [g++ -o minimum_cost_travel main.cpp]
+ [g++ -o main.cpp]
 
 4. Run the executable.
-[./minimum_cost_travel]
 
 
 ## Usage
